@@ -49,44 +49,6 @@ travel-agency-dashboard/
 └── README.md         # Project documentation
 ```
 
-## 📱 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/Vaishnotiwari12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/VaishnoSatyam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  
-</div>
-
-## 🌐 Project Links
-
-<div align="center">
-  <a href="https://travel-agency-dashboard-lemon.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/Vaishnotiwari12/AI-Travel-dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-## 👤 Made by
-
-<div align="center">
-  <a href="https://github.com/Vaishnotiwari12">
-    <img src="https://img.shields.io/badge/Made%20by-your-name-4CAF50?style=for-the-badge">
-  </a>
-</div>
-
----
-
-<p align="center">🚀 Built with ❤️ and modern technologies</p>
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -202,3 +164,41 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
 
 
+
+## 📱 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Vaishnotiwari12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/VaishnoSatyam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+</div>
+
+## 🌐 Project Links
+
+<div align="center">
+  <a href="https://travel-agency-dashboard-lemon.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/Vaishnotiwari12/AI-Travel-dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+## 👤 Made by
+
+<div align="center">
+  <a href="https://github.com/Vaishnotiwari12">
+    <img src="https://img.shields.io/badge/Made%20by-your-name-4CAF50?style=for-the-badge">
+  </a>
+</div>
+
+---
+
+<p align="center">🚀 Built with ❤️ by Vaishno tiwari </p>
