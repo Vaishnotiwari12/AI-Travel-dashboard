@@ -1,5 +1,5 @@
 
-  <h1 align="center">AI Travel Agency dashboard</h1>
+  <h1 align="center">AI Travel  Dashboard</h1>
 
 
 <div align="center">
@@ -111,9 +111,9 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel-agency-dashboard.git
-cd travel-agency-dashboard
-```
+git https://github.com/Vaishnotiwari12/AI-Travel-dashboard?tab=readme-ov-file
+cd AI-Travel-dashboard
+``` 
 
 **Installation**
 
@@ -162,6 +162,15 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
+
+
+
+<div align="center">
+  <a href="">
+    <img src="./create AI trip.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
+  </a>
+ 
+</div>
 
 
 ## 📱 Connect With Me
