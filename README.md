@@ -1,7 +1,7 @@
 
 <div align="center">
-  <a href="https://github.com/Vaishnotiwari12/AI-Travel-dashboard.git">
-    <img src="./users dashboard.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
+  <a href="">
+    <img src="./dashboard.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
   </a>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
