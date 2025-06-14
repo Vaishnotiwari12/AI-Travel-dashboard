@@ -1,4 +1,7 @@
 
+  <h3 align="center">AI Travel Agency dashboard</h3>
+
+
 <div align="center">
   <a href="">
     <img src="./dashboard.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
@@ -9,9 +12,38 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Syncfusion-181758?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
-  <h3 align="center">AI Travel Agency dashboard</h3>
-
 </div>
+
+## 📁 Project Overview
+
+This is the initial commit of the AI Travel Agency Dashboard project, which includes the core project files and documentation. The project is a modern travel agency platform with an admin dashboard built using React and various modern technologies.
+
+### Key Features in Initial Commit
+- Core project structure and configuration files
+- Basic React application setup
+- Environment configuration templates
+- Initial documentation in README.md
+- Git and Docker configuration files
+
+### Technology Stack
+- React for the frontend framework
+- Appwrite for backend services
+- Syncfusion for UI components
+- Tailwind CSS for styling
+
+### Project Structure
+```
+travel-agency-dashboard/
+├── app/              # Main application code and pages
+├── components/       # Reusable UI components
+├── contexts/         # React context providers
+├── public/           # Static assets
+├── .dockerignore     # Docker build configuration
+├── .gitignore        # Git configuration
+├── .env.example      # Environment variables template
+├── package.json      # Project dependencies
+└── README.md         # Project documentation
+```
 
 ## 📋 <a name="table">Table of Contents</a>
 
