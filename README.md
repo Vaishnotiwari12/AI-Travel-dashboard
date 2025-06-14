@@ -141,4 +141,3 @@ app/routes/admin/dashboard.tsx
 🔗 Assets
 Assets used in the project can be found here.
 
-Project Banner
