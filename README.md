@@ -6,7 +6,12 @@
   <a href="">
     <img src="./dashboard.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
   </a>
- 
+</div>
+
+<div align="center">
+  <a href="">
+    <img src="./analysis dash.png" alt="Dashboard Analysis of Users" width="100%" style="max-width: 800px;">
+  </a>
 </div>
 
 ## 📁 Project Overview
