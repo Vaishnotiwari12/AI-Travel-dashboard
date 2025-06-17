@@ -172,7 +172,7 @@ Open [http://localhost:5173](http://localhost:5173/) in your browser to view the
 
 <div align="center">
   <a href="">
-    <img src="./create AI trip.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
+    <img src="./public/create-trip-form-small.png" alt="Create Trip Form" width="100%" style="max-width: 400px;">
   </a>
  
 </div>
