@@ -4,6 +4,12 @@
 
 <div align="center">
   <a href="">
+    <img src="./Tourvisto - AI Travel App@2x.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 500px;">
+  </a>
+</div>
+
+<div align="center">
+  <a href="">
     <img src="./dashboard.png" alt="AI Travel Agency Dashboard Banner" width="100%" style="max-width: 800px;">
   </a>
 </div>
