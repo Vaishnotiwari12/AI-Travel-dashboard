@@ -34,4 +34,3 @@ export default defineConfig(config => {
     envPrefix: 'VITE_'
   };
 });
-
